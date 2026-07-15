@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "وَسَد",
+    "slug": "wasd-clean-starter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "wasd",
+    "plugins": [
+      "expo-router",
+      "expo-image",
+      "@react-native-community/datetimepicker",
+      "expo-secure-store",
+      "expo-font",
+      "expo-status-bar"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F5F7FA"
+      }
+    }
+  }
+}
